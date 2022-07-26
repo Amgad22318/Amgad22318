@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgad22318" alt="amgad22318" /></a> </p>
 
+- 🧑‍💻 I'm currently an **Junior flutter developer at Seyahati.**
+
+- 🧑‍💻 I'm currently an **intern flutter developer at Alogoriza**
+
+- 🧑‍💻 Ex-developer **at Magdsoft.**
+
+- 📫 How to reach me [+20 127 212 1183](+20 127 212 1183)
+
+- 💬 Ask me about **Mobile Development**
+
 - 📫 How to reach me **Amgad22318@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ENUIAVvqbBcTHVVz_jyTktpSJZwQItsr/view?usp=sharing](https://drive.google.com/file/d/1ENUIAVvqbBcTHVVz_jyTktpSJZwQItsr/view?usp=sharing)
@@ -13,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/amgad-m-behairy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amgad-m-behairy" height="30" width="40" /></a>
 <a href="https://fb.com/amgad18223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amgad18223" height="30" width="40" /></a>
+<a href="https://instagram.com/amgad.m.behairy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amgad.m.behairy" height="30" width="40" /></a>
 <a href="https://discord.gg/#0743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0743" height="30" width="40" /></a>
 </p>
 
