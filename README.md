@@ -7,13 +7,13 @@
 
 - 🧑‍💻 I'm currently an Junior flutter developer at **Seyahati.**
 
-- 📫 How to reach me **+20 127 212 1183**
-
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza](https://algoriza.com/?fbclid=IwAR302Xc8eA1Lau9d6curZo71jjD6i6mLOg3nXYV_aF9ergRiAnXjMEja-JQ)
 
 - 🧑‍💻 Ex-developer at [Magdsoft](https://www.magdsoft.com/)
 
 - 📫 How to reach me **Amgad22318@gmail.com**
+
+- 📫 How to reach me [+20 127 212 1183](https://wa.me/message/MYEPMEKVFYE6F1)
 
 - 💬 Ask me about **Mobile Development**
 
