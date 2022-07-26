@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amgad22318" alt="amgad22318" /></a> </p>
 
-- 🧑‍💻 I'm currently an **Junior flutter developer at Seyahati.**
+- 🧑‍💻 I'm currently an Junior flutter developer at **Seyahati.**
 
-- 🧑‍💻 I'm currently an **intern flutter developer at Alogoriza**
+- 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza](https://algoriza.com/?fbclid=IwAR302Xc8eA1Lau9d6curZo71jjD6i6mLOg3nXYV_aF9ergRiAnXjMEja-JQ)
 
-- 🧑‍💻 Ex-developer **at Magdsoft.**
+- 🧑‍💻 Ex-developer at [Magdsoft](https://www.magdsoft.com/)
 
 - 📫 How to reach me [+20 127 212 1183](+20 127 212 1183)
 
