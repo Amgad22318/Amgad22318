@@ -7,15 +7,15 @@
 
 - 🧑‍💻 I'm currently an Junior flutter developer at **Seyahati.**
 
+- 📫 How to reach me **+20 127 212 1183**
+
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza](https://algoriza.com/?fbclid=IwAR302Xc8eA1Lau9d6curZo71jjD6i6mLOg3nXYV_aF9ergRiAnXjMEja-JQ)
 
 - 🧑‍💻 Ex-developer at [Magdsoft](https://www.magdsoft.com/)
 
-- 📫 How to reach me [+20 127 212 1183](+20 127 212 1183)
+- 📫 How to reach me **Amgad22318@gmail.com**
 
 - 💬 Ask me about **Mobile Development**
-
-- 📫 How to reach me **Amgad22318@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ENUIAVvqbBcTHVVz_jyTktpSJZwQItsr/view?usp=sharing](https://drive.google.com/file/d/1ENUIAVvqbBcTHVVz_jyTktpSJZwQItsr/view?usp=sharing)
 
@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amgad22318&show_icons=true&locale=en&layout=compact" alt="amgad22318" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amgad22318&show_icons=true&locale=en" alt="amgad22318" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amgad22318&" alt="amgad22318" /></p>
