@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm currently an intern flutter developer at [Alogoriza](https://algoriza.com/?fbclid=IwAR302Xc8eA1Lau9d6curZo71jjD6i6mLOg3nXYV_aF9ergRiAnXjMEja-JQ)
 
-- 🧑‍💻 Ex-developer at [Magdsoft](https://www.magdsoft.com/)
+- 🧑‍💻 Former Junior Flutter developer at [Magdsoft](https://www.magdsoft.com/)
 
 - 📫 How to reach me **Amgad22318@gmail.com**
 
